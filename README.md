@@ -105,4 +105,4 @@ QENV=development quasar dev -m ios
 
 ## License
 
-MIT © 2019 Volentix
+MIT © 2019 TechWebGuy
