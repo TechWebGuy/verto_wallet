@@ -1,10 +1,5 @@
 # verto
 
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/Volentix/verto/blob/master/LICENSE)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Volentix/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 > A multi-currency cross-blockchain peer-to-peer wallet
 
 
@@ -107,18 +102,6 @@ You must install the android development environment for your platform. This is 
 ```
 QENV=development quasar dev -m ios
 ```
-
-## Maintainers
-
-[gregory@volentixlabs.com](mailto:gregory@volentixlabs.com)
-
-## Contribute
-
-See [the contribute file](.github/CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
 ## License
 
